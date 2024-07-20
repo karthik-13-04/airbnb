@@ -1,0 +1,19 @@
+.icon-section {
+  margin-top: -15px;
+}
+
+.icon-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.icon-item {
+  text-align: center;
+}
+
+.icon-item img {
+  height: 100px; /* Fixed height */
+  width: 100%; /* Full width */
+  position: sticky;
+  top: 20px; /* Adjust this value as needed */
+}
